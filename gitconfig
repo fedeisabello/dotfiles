@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = fedeisabello@hotmail.com
+	name = Federico Isabello
